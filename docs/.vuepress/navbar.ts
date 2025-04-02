@@ -15,7 +15,8 @@ export const navbar = defineNavbarConfig([
       { text: '高级配置', link: '/documents/advanced-config/' },
       { text: '项目结构', link: '/documents/structure/' },
       { text: '角色广场', link: '/documents/character-plaza/' },
-      { text: '常见问题', link: '/documents/faq/' }
+      { text: '常见问题', link: '/documents/faq/' },
+      { text: '报错汇总', link: '/documents/problem/' }
     ]
   },
   { text: '赞助', link: '/sponsor.html', icon: '' },
