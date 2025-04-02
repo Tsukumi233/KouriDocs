@@ -35,6 +35,10 @@ const documents = defineNoteConfig({
     {
       text: '常见问题',
       link: '/documents/faq/'
+    },
+    {
+      text: '报错汇总',
+      link: '/documents/problem/'
     }
   ]
 })
